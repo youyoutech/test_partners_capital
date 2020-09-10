@@ -1,0 +1,23 @@
+.survey-stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.stats-panel {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    flex: 1;
+}
+
+.stats-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.panel-title {
+    font-size: 18px;
+}
+
